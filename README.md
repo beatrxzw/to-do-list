@@ -1,10 +1,9 @@
 **Projeto Final Geração Tech**
 
-<summary><strong>Membros</strong></summary>
-- Beatriz  **Líder** 
-- Jefferson  **Vice-líder**, **Full-Cycle**
-- Levy  **Back-end**
-- Paulo Henrique  **Front-end**
+- Beatriz - **Lider**, **Front-end**
+- Jefferson - **Vice-lider**, **Full-Cycle**
+- Levy - **Back-end**
+- Paulo Henrique - **Front-end**
 
 # 1 - Descrição do Projeto
 
@@ -42,9 +41,9 @@ a página.
 ## 3.2 - Cronograma Beatriz Lopes:
 - Primeira Parte: Criado o documento Root da organizado - Início: 17-07-2024 / Fim: 17-07-2024;
 - Segunda Parte: Seção de Coleção da HomePage. - Início: 18-07-2024  / Fim: 19-07-2024
-		- Coleção: Seção estruturada, divs sepadadas, adicionada paleta e fontes.
+	- ` Coleção: Seção estruturada, divs sepadadas, adicionada paleta e fontes.`
 - Teceira Parte: Continuação da seção de Coleção.
-		- Coleção: Adicionadas Props e botões interativos - Início: 19-07-2024 / Fim: 21-07-2024;
+	- Coleção: Adicionadas Props e botões interativos - Início: 19-07-2024 / Fim: 21-07-2024;
 - Quarta Parte: Iniciado o desenvolvido da pagina de Carrinho da Sprint 2. - Início: 23-07-2024 / Fim: 23-07-2024;
 		- Carrinho: Estruturação da section e separação das divs, também foi iniciada a estilização
 - Quinta Parte: Finazalição da primeira sessão. - Início: 23-07-2024 / Fim: 24-07-2024;
