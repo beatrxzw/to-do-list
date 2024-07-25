@@ -47,7 +47,17 @@ a página.
 - Quarta Parte: Iniciado o desenvolvido da pagina de Carrinho da Sprint 2. - Início: 23-07-2024 / Fim: 23-07-2024;
 	- Carrinho: Estruturação da section e separação das divs, também foi iniciada a estilização
 - Quinta Parte: Finazalição da primeira sessão. - Início: 23-07-2024 / Fim: 24-07-2024;
-	- Carrinho: Adicionado a parte interativa por meio de useState e useEffect 
+	- Carrinho: Adicionado a parte interativa por meio de useState e useEffect
+
+ ## 3.3 - Cronograma Levy:
+- Primeira Parte: Produção do componente Footer - Início: 17-07-2024 / Fim: 18-07-2024;
+- Segunda Parte: Produção do componente Produtos em alta da página home  - Início: 18-07-2024 / Fim: 20-07-2024
+	- Produtos em alta:  Utilizei props para gerar os conteúdos dos cards  de acordo com as informações consumidas do array.
+No passar do tempo implementei alguns efeitos nos cards.
+- Teceira Parte: Produção do componente Filtro da tela list product -  Início:  21-07-2024 / Fim: 22-07-2024
+	- Filtro: Novamente utilizei props para gerar o conteúdo do card dinamicamente consumindo de um array. Adicionei efeitos css nos componentes do card
+- Quarta Parte: Produção do componentes HeaderdeLogineCadastro FormLogin da tela de login - Início: 22-07-2024 / Fim: 23-07-2024
+- Quinta Parte: Produção do componente FormCriarLogin- Início: 22-07-2024 / Fim: 23-07-2024
 
 
 
