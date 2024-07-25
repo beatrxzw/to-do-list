@@ -29,25 +29,25 @@ a página.
 
 ## 3.1 Cronograma Jefferson de Oliveira:
 - Primeira Parte: Produção do componente Header - Início: 17-07-2024 / Fim: 18-07-2024;
-		-Header: Adicionado logo,input,font,botões e estilização.
+	- Header: Adicionado logo,input,font,botões e estilização.
 - Segunda Parte: Produção do componente NavBar - Início: 18-07-2024  / Fim: 19-07-2024 e
 	Atualizações do Header e NavBar, dia 25-07-2024;
-		-NavBar: Adicionado tags de navegações, botões e estilização.
+	- NavBar: Adicionado tags de navegações, botões e estilização.
 - Teceira Parte: Produção do componente Ofertas - Início: 19-07-2024 / Fim: 22-07-2024;
-		-Ofertas: Adicionado imagens, textos e estilização.
+	- Ofertas: Adicionado imagens, textos e estilização.
 - Quarta Parte: Produção do componente da Página 3 da Sprint 1 - Início: 23-07-2024 / Fim: 25-07-2024;
-		-Página 3: Adicionado carrossel, textos, botões, estelização e funcionalidade.
+	- Página 3: Adicionado carrossel, textos, botões, estelização e funcionalidade.
 
 ## 3.2 - Cronograma Beatriz Lopes:
 - Primeira Parte: Criado o documento Root da organizado - Início: 17-07-2024 / Fim: 17-07-2024;
 - Segunda Parte: Seção de Coleção da HomePage. - Início: 18-07-2024  / Fim: 19-07-2024
-	- ` Coleção: Seção estruturada, divs sepadadas, adicionada paleta e fontes.`
+	-  Coleção: Seção estruturada, divs sepadadas, adicionada paleta e fontes.
 - Teceira Parte: Continuação da seção de Coleção.
 	- Coleção: Adicionadas Props e botões interativos - Início: 19-07-2024 / Fim: 21-07-2024;
 - Quarta Parte: Iniciado o desenvolvido da pagina de Carrinho da Sprint 2. - Início: 23-07-2024 / Fim: 23-07-2024;
-		- Carrinho: Estruturação da section e separação das divs, também foi iniciada a estilização
+	- Carrinho: Estruturação da section e separação das divs, também foi iniciada a estilização
 - Quinta Parte: Finazalição da primeira sessão. - Início: 23-07-2024 / Fim: 24-07-2024;
-		- Carrinho: Adicionado a parte interativa por meio de useState e useEffect 
+	- Carrinho: Adicionado a parte interativa por meio de useState e useEffect 
 
 
 
