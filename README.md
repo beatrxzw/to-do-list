@@ -1,4 +1,4 @@
-**Projeto Final Geração Tech**
+# Projeto Final Geração Tech
 
 - Beatriz - **Lider**, **Front-end**
 - Jefferson - **Vice-lider**, **Full-Cycle**
