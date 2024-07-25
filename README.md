@@ -1,10 +1,10 @@
 **Projeto Final Geração Tech**
 
 <summary><strong>Membros</strong></summary>
-- Beatriz - **Líder** 
-- Jefferson - **Vice-líder**, **Full-Cycle**
-- Levy - **Back-end**
-- Paulo Henrique - **Front-end**
+- Beatriz  **Líder** 
+- Jefferson  **Vice-líder**, **Full-Cycle**
+- Levy  **Back-end**
+- Paulo Henrique  **Front-end**
 
 # 1 - Descrição do Projeto
 
