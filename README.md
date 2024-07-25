@@ -25,7 +25,7 @@ membro pudesse inserir os códigos da sua seção.
 Quando concluído, foi feito a merge de cada branch na main, criando
 a página.
 
-#3 - Cronograma
+# 3 - Cronograma
 
 ## 3.1 Cronograma Jefferson de Oliveira:
 - Primeira Parte: Produção do componente Header - Início: 17-07-2024 / Fim: 18-07-2024;
