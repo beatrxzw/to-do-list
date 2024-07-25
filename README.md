@@ -22,8 +22,7 @@ Então foi criada uma organização, com um repósitorio global
 sendo usado como modelo, também foram criadas branchs para que cada
 membro pudesse inserir os códigos da sua seção e pagina.
 
-Quando concluído, foi feito a merge de cada branch na main, criando
-a página.
+Quando concluído, foi feito a merge de cada branch na main.
 
 # 3 - Cronograma
 
