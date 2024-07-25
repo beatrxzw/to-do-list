@@ -28,7 +28,7 @@ a página.
 
 #3 - Cronograma
 
-## Cronograma Jefferson de Oliveira:
+## 3.1 Cronograma Jefferson de Oliveira:
 - Primeira Parte: Produção do componente Header - Início: 17-07-2024 / Fim: 18-07-2024;
 		-Header: Adicionado logo,input,font,botões e estilização.
 - Segunda Parte: Produção do componente NavBar - Início: 18-07-2024  / Fim: 19-07-2024 e
@@ -39,7 +39,7 @@ a página.
 - Quarta Parte: Produção do componente da Página 3 da Sprint 1 - Início: 23-07-2024 / Fim: 25-07-2024;
 		-Página 3: Adicionado carrossel, textos, botões, estelização e funcionalidade.
 
-## Cronograma Beatriz Lopes:
+## 3.2 - Cronograma Beatriz Lopes:
 - Primeira Parte: Criado o documento Root da organizado - Início: 17-07-2024 / Fim: 17-07-2024;
 - Segunda Parte: Seção de Coleção da HomePage. - Início: 18-07-2024  / Fim: 19-07-2024
 		- Coleção: Seção estruturada, divs sepadadas, adicionada paleta e fontes.
@@ -52,7 +52,7 @@ a página.
 
 
 
-# 3 - Instalação
+# 4 - Instalação
   1. Faça um git clone do repositório do GitHub (`git clone
   link-do-repositorio)`
   2. Instale o npm (`npm install`)
