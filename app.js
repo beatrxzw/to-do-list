@@ -16,7 +16,7 @@ function newTask() {
     } 
     else if(jaExiste())
     {
-        alert('oii')
+        alert('Essa task já existe!')
     }
     
     else{
